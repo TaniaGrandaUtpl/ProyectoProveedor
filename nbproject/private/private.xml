@@ -3,9 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/Clases/Proveedor.java</file>
-            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/Nuevo/nueva.java</file>
-            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/Clases/Cliente.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/proyectoproveedor/Empresa.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/proyectoproveedor/Usuario.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/proyectoproveedor/MenuPrin.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/proyectoproveedor/PersonaNatural.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/proyectoproveedor/Main.java</file>
+            <file>file:/C:/Users/USUARIO/Desktop/ProyectoProveedor/src/proyectoproveedor/RegProducto.java</file>
         </group>
     </open-files>
 </project-private>
