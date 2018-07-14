@@ -4,11 +4,7 @@
  * and open the template in the editor.
  */
 package proyectoproveedor;
-
-/**
- *
- * @author Usuario
- */
+//sadajsdajsdjjsadj
 public class PersonaNatural extends javax.swing.JFrame {
 
     /**
